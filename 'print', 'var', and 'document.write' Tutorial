@@ -1,0 +1,33 @@
+  Welcome to JavaScript BootCamp!!! Today, we will learn basic methods and how to input your script into HTML documents!!!
+
+First, we need to open our code writer. On my Mac, I use TextEdit. On my Windows, I use Notepad ++. Now, type this into the document
+
+print
+
+The command 'print' tells JavaScript to "print" the page. For instance, go to a website, try google.co.uk, and open your JavaScript
+Console (I will say js.console mostly) and type:
+
+print
+
+You will see the print screen to print the page. Now, I will introduce this type of code,
+
+var myName=GamerOnGitHUb
+document.write(myName)
+
+The command 'var' tells JavaScript that the fallowing text in this line is a variable and needs to be remembered.
+The command 'document.write' tells JavaScript to write this onto the page and '(myName)' can also be changed to '(GamerOnGitHub)'the '()'
+is used to define the text to be distributed.
+
+
+That is all for this tutorial, stay tuned for more tutorials on JavaScript and more programming languages.
+
+
+Bonus Quest
+
+Ready to challenge yourself? Anwser this riddle and have it be coded :
+
+What is grey with a black circle around it?
+
+Hint : It is part of the GitHub Logo, FYI it is not a cat
+
+
